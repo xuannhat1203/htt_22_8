@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "productName": "Cam 23",
+    "price": "12000",
+    "image": "https://plus.unsplash.com/premium_photo-1675667408018-3b64dbc55db1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "quantity": 12
+  },
+  {
+    "id": 2,
+    "productName": "Táo",
+    "price": "15000",
+    "image": "https://plus.unsplash.com/premium_photo-1661322640130-f6a1e2c36653?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "quantity": 20
+  },
+  {
+    "id": 3,
+    "productName": "Nho",
+    "price": "25000",
+    "image": "https://plus.unsplash.com/premium_photo-1663133621615-20470943c570?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "quantity": 8
+  },
+  {
+    "id": 4,
+    "productName": "Chuối",
+    "price": "10000",
+    "image": "https://plus.unsplash.com/premium_photo-1675731118330-08c71253af17?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "quantity": 30
+  }
+]
